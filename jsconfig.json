@@ -53,6 +53,30 @@
       "meteor/blaze-hot": [
         "/Users/menoude/.meteor/packages/blaze-hot/1.1.1/web.browser/hot.js",
         "/Users/menoude/.meteor/packages/blaze-hot/1.1.1/web.browser/update-templates.js"
+      ],
+      "meteor/reactive-dict": [
+        "/Users/menoude/.meteor/packages/reactive-dict/1.3.1/web.browser/migration.js",
+        "/Users/menoude/.meteor/packages/reactive-dict/1.3.1/web.browser/reactive-dict.js"
+      ],
+      "meteor/meteortesting:mocha": [
+        "/Users/menoude/.meteor/packages/meteortesting_mocha/2.1.0/web.browser/client.js",
+        "/Users/menoude/.meteor/packages/meteortesting_mocha/2.1.0/web.browser/browser-shim.js",
+        "/Users/menoude/.meteor/packages/meteortesting_mocha/2.1.0/web.browser/prepForHTMLReporter.js",
+        "/Users/menoude/.meteor/packages/meteortesting_mocha/2.1.0/web.browser/runtimeArgs.js",
+        "/Users/menoude/.meteor/packages/meteortesting_mocha/2.1.0/web.browser/server.handleCoverage.js",
+        "/Users/menoude/.meteor/packages/meteortesting_mocha/2.1.0/web.browser/server.js"
+      ],
+      "meteor/accounts-base": [
+        "/Users/menoude/.meteor/packages/accounts-base/2.2.6/web.browser/client_main.js",
+        "/Users/menoude/.meteor/packages/accounts-base/2.2.6/web.browser/accounts_client.js",
+        "/Users/menoude/.meteor/packages/accounts-base/2.2.6/web.browser/accounts_common.js",
+        "/Users/menoude/.meteor/packages/accounts-base/2.2.6/web.browser/accounts_server.js",
+        "/Users/menoude/.meteor/packages/accounts-base/2.2.6/web.browser/server_main.js"
+      ],
+      "meteor/accounts-password": [
+        "/Users/menoude/.meteor/packages/accounts-password/2.3.3/web.browser/password_client.js",
+        "/Users/menoude/.meteor/packages/accounts-password/2.3.3/web.browser/email_templates.js",
+        "/Users/menoude/.meteor/packages/accounts-password/2.3.3/web.browser/password_server.js"
       ]
     }
   },
