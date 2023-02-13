@@ -1,5 +1,5 @@
 {
-  "name": "exports-blaze-app",
+  "name": "step01",
   "private": true,
   "scripts": {
     "start": "set ROOT_URL=http://127.0.0.1:3000 && meteor run",
@@ -8,9 +8,10 @@
     "visualize": "meteor --production --extra-packages bundle-visualizer"
   },
   "dependencies": {
-    "@babel/runtime": "^7.17.9",
-    "jquery": "^3.6.0",
-    "meteor-node-stubs": "^1.2.1"
+    "@babel/runtime": "^7.15.4",
+    "bcrypt": "^5.0.1",
+    "jquery": "^3.6",
+    "meteor-node-stubs": "^1.2.3"
   },
   "meteor": {
     "mainModule": {

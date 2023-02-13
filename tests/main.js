@@ -1,6 +1,6 @@
 import assert from "assert";
 
-describe("exports-blaze-app", function () {
+describe("exports-meteor-blaze-app", function () {
   it("package.json has correct name", async function () {
     const { name } = await import("../package.json");
     assert.strictEqual(name, "exports-blaze-app");
